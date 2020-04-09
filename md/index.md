@@ -1,22 +1,22 @@
 ---
-title: 神经网络与深度学习
-description: 《神经网络与深度学习》
+title: 修改
+description: 《修改》
 date: 2016-09-22
 categories:
-- 机器学习
-- 人工神经网络
-- 深度学习
+- 修改修改修改
+- 修改修改
+- 修改
 tags:
-- 机器学习
-- 人工智能
-- 深度学习
-- 卷积神经网络
-- 循环神经网络
-- 自然语言处理
-- 表示学习
+- 修改
+- 修改
+- 修改
+- 修改
+- 修改
+- 修改
+- 修改
 published: true
 ---
-# 神经网络与深度学习
+# 修改
 作者：[邱锡鹏](<https://xpqiu.github.io/>)  知乎：[@邱锡鹏](https://www.zhihu.com/people/xpqiu)
 ## 关于本书
 
